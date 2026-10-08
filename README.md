@@ -80,11 +80,11 @@ cargo fmt --all
 
 | Exercise | Status |
 |----------|--------|
-| [scalar](https://github.com/01-edu/public/tree/master/subjects/scalar) | ⬜ |
-| [division_and_remainder](https://github.com/01-edu/public/tree/master/subjects/division_and_remainder) | ⬜ |
-| [fibonacci2](https://github.com/01-edu/public/tree/master/subjects/fibonacci2) | ⬜ |
-| [find_factorial](https://github.com/01-edu/public/tree/master/subjects/find_factorial) | ⬜ |
-| [groceries](https://github.com/01-edu/public/tree/master/subjects/groceries) | ⬜ |
+| [scalar](https://github.com/01-edu/public/tree/master/subjects/scalar) | ✅️ |
+| [division_and_remainder](https://github.com/01-edu/public/tree/master/subjects/division_and_remainder) | ✅️ |
+| [fibonacci2](https://github.com/01-edu/public/tree/master/subjects/fibonacci2) | ✅️ |
+| [find_factorial](https://github.com/01-edu/public/tree/master/subjects/find_factorial) | ✅️ |
+| [groceries](https://github.com/01-edu/public/tree/master/subjects/groceries) | ✅️ |
 | [looping](https://github.com/01-edu/public/tree/master/subjects/looping) | ⬜ |
 | [matrix_transposition](https://github.com/01-edu/public/tree/master/subjects/matrix_transposition) | ⬜ |
 | [reverse_string](https://github.com/01-edu/public/tree/master/subjects/reverse_string) | ⬜ |
