@@ -7,5 +7,9 @@ name = "division_and_remainder"
 version = "0.1.0"
 
 [[package]]
+name = "find_factorial"
+version = "0.1.0"
+
+[[package]]
 name = "scalar"
 version = "0.1.0"
