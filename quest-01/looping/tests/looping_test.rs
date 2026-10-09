@@ -28,9 +28,7 @@ fn run(input: &str) -> String {
 fn test_first_try() {
     let output = run("The letter e\n");
 
-    let expected = format!(
-        "{RIDDLE}\nNumber of trials: 1\n"
-    );
+    let expected = format!("{RIDDLE}\nNumber of trials: 1\n");
 
     assert_eq!(output, expected);
 }
@@ -39,9 +37,7 @@ fn test_first_try() {
 fn test_multiple_tries() {
     let output = run("wrong\nI don't know\nThe letter e\n");
 
-    let expected = format!(
-        "{RIDDLE}\n{RIDDLE}\n{RIDDLE}\nNumber of trials: 3\n"
-    );
+    let expected = format!("{RIDDLE}\n{RIDDLE}\n{RIDDLE}\nNumber of trials: 3\n");
 
     assert_eq!(output, expected);
 }

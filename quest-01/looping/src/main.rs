@@ -12,7 +12,9 @@ fn main() -> io::Result<()> {
         io::stdin().read_line(&mut input)?;
         let trimmed = input.trim();
 
-        if trimmed == "The letter e" { break; }
+        if trimmed == "The letter e" {
+            break;
+        }
     }
 
     println!("Number of trials: {}", trial_cnt);
