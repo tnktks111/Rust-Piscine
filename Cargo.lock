@@ -23,6 +23,10 @@ name = "matrix_transposition"
 version = "0.1.0"
 
 [[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
 name = "reverse_string"
 version = "0.1.0"
 
