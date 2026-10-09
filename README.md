@@ -85,12 +85,12 @@ cargo fmt --all
 | [fibonacci2](https://github.com/01-edu/public/tree/master/subjects/fibonacci2) | ✅️ |
 | [find_factorial](https://github.com/01-edu/public/tree/master/subjects/find_factorial) | ✅️ |
 | [groceries](https://github.com/01-edu/public/tree/master/subjects/groceries) | ✅️ |
-| [looping](https://github.com/01-edu/public/tree/master/subjects/looping) | ⬜ |
-| [matrix_transposition](https://github.com/01-edu/public/tree/master/subjects/matrix_transposition) | ⬜ |
-| [reverse_string](https://github.com/01-edu/public/tree/master/subjects/reverse_string) | ⬜ |
-| [speed_transformation](https://github.com/01-edu/public/tree/master/subjects/speed_transformation) | ⬜ |
-| [temperature_conv](https://github.com/01-edu/public/tree/master/subjects/temperature_conv) | ⬜ |
-| [tuples_refs](https://github.com/01-edu/public/tree/master/subjects/tuples_refs) | ⬜ |
+| [looping](https://github.com/01-edu/public/tree/master/subjects/looping) | ✅️ |
+| [matrix_transposition](https://github.com/01-edu/public/tree/master/subjects/matrix_transposition) | ✅️ |
+| [reverse_string](https://github.com/01-edu/public/tree/master/subjects/reverse_string) | ✅️ |
+| [speed_transformation](https://github.com/01-edu/public/tree/master/subjects/speed_transformation) | ✅️ |
+| [temperature_conv](https://github.com/01-edu/public/tree/master/subjects/temperature_conv) | ✅️ |
+| [tuples_refs](https://github.com/01-edu/public/tree/master/subjects/tuples_refs) | ✅️ |
 
 Additional quests will be added as I progress.
 
