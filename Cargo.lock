@@ -29,3 +29,7 @@ version = "0.1.0"
 [[package]]
 name = "scalar"
 version = "0.1.0"
+
+[[package]]
+name = "speed_transformation"
+version = "0.1.0"
