@@ -96,17 +96,16 @@ cargo fmt --all
 
 | Exercise | Status |
 |----------|--------|
-| [armstrong_number](https://github.com/01-edu/public/tree/master/subjects/armstrong_number) | ⬜ |
 | [arrange_it](https://github.com/01-edu/public/tree/master/subjects/arrange_it) | ⬜ |
 | [borrow](https://github.com/01-edu/public/tree/master/subjects/borrow) | ⬜ |
 | [borrow_me_the_reference](https://github.com/01-edu/public/tree/master/subjects/borrow_me_the_reference) | ⬜ |
+| [changes](https://github.com/01-edu/public/tree/master/subjects/changes) | ⬜ |
 | [copy](https://github.com/01-edu/public/tree/master/subjects/copy) | ⬜ |
 | [doubtful](https://github.com/01-edu/public/tree/master/subjects/doubtful) | ⬜ |
 | [name_initials](https://github.com/01-edu/public/tree/master/subjects/name_initials) | ⬜ |
 | [ownership](https://github.com/01-edu/public/tree/master/subjects/ownership) | ⬜ |
 | [string_literals](https://github.com/01-edu/public/tree/master/subjects/string_literals) | ⬜ |
 | [tic_tac_toe](https://github.com/01-edu/public/tree/master/subjects/tic_tac_toe) | ⬜ |
-| [to_url](https://github.com/01-edu/public/tree/master/subjects/to_url) | ⬜ |
 
 Additional quests will be added as I progress.
 
