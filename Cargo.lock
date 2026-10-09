@@ -15,5 +15,9 @@ name = "groceries"
 version = "0.1.0"
 
 [[package]]
+name = "looping"
+version = "0.1.0"
+
+[[package]]
 name = "scalar"
 version = "0.1.0"
