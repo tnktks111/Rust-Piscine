@@ -111,12 +111,12 @@ cargo fmt --all
 
 | Exercise | Status |
 |----------|--------|
-| [circle](https://github.com/01-edu/public/tree/master/subjects/circle) | ⬜ |
-| [card_deck](https://github.com/01-edu/public/tree/master/subjects/card_deck) | ⬜ |
-| [arrays](https://github.com/01-edu/public/tree/master/subjects/arrays) | ⬜ |
-| [strings](https://github.com/01-edu/public/tree/master/subjects/strings) | ⬜ |
+| [circle](https://github.com/01-edu/public/tree/master/subjects/circle) | ✅️ |
+| [card_deck](https://github.com/01-edu/public/tree/master/subjects/card_deck) | ✅️ |
+| [arrays](https://github.com/01-edu/public/tree/master/subjects/arrays) | ✅️ |
+| [strings](https://github.com/01-edu/public/tree/master/subjects/strings) | ✅️ |
 | [edit_distance](https://github.com/01-edu/public/tree/master/subjects/edit_distance) | ⬜ |
-| [to_url](https://github.com/01-edu/public/tree/master/subjects/to_url) | ⬜ |
+| [to_url](https://github.com/01-edu/public/tree/master/subjects/to_url) | ✅️ |
 | [capitalizing](https://github.com/01-edu/public/tree/master/subjects/capitalizing) | ⬜ |
 | [hashing](https://github.com/01-edu/public/tree/master/subjects/hashing) | ⬜ |
 | [string_permutation](https://github.com/01-edu/public/tree/master/subjects/string_permutation) | ⬜ |
