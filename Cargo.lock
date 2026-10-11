@@ -43,6 +43,10 @@ name = "matrix_transposition"
 version = "0.1.0"
 
 [[package]]
+name = "name_initials"
+version = "0.1.0"
+
+[[package]]
 name = "ownership"
 version = "0.1.0"
 
@@ -56,6 +60,10 @@ version = "0.1.0"
 
 [[package]]
 name = "speed_transformation"
+version = "0.1.0"
+
+[[package]]
+name = "string_literals"
 version = "0.1.0"
 
 [[package]]
