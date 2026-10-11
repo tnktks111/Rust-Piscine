@@ -107,6 +107,23 @@ cargo fmt --all
 | [string_literals](https://github.com/01-edu/public/tree/master/subjects/string_literals) | ⬜ |
 | [tic_tac_toe](https://github.com/01-edu/public/tree/master/subjects/tic_tac_toe) | ✅️ |
 
+### Quest 03 — Structs, Enums & Collections
+
+| Exercise | Status |
+|----------|--------|
+| [circle](https://github.com/01-edu/public/tree/master/subjects/circle) | ⬜ |
+| [card_deck](https://github.com/01-edu/public/tree/master/subjects/card_deck) | ⬜ |
+| [arrays](https://github.com/01-edu/public/tree/master/subjects/arrays) | ⬜ |
+| [strings](https://github.com/01-edu/public/tree/master/subjects/strings) | ⬜ |
+| [edit_distance](https://github.com/01-edu/public/tree/master/subjects/edit_distance) | ⬜ |
+| [to_url](https://github.com/01-edu/public/tree/master/subjects/to_url) | ⬜ |
+| [capitalizing](https://github.com/01-edu/public/tree/master/subjects/capitalizing) | ⬜ |
+| [hashing](https://github.com/01-edu/public/tree/master/subjects/hashing) | ⬜ |
+| [string_permutation](https://github.com/01-edu/public/tree/master/subjects/string_permutation) | ⬜ |
+| [bigger](https://github.com/01-edu/public/tree/master/subjects/bigger) | ⬜ |
+| [simple_hash](https://github.com/01-edu/public/tree/master/subjects/simple_hash) | ⬜ |
+| [collect](https://github.com/01-edu/public/tree/master/subjects/collect) | ⬜ |
+
 Additional quests will be added as I progress.
 
 ## Development
