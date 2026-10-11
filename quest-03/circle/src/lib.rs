@@ -1,14 +1,14 @@
 #[derive(Debug, Clone, Copy)]
 pub struct Circle {
-	pub center : Point,
-	pub radius : f64
+    pub center: Point,
+    pub radius: f64,
 }
 
 impl Circle {
-    pub fn new(x: f64, y:f64, radius: f64) -> Self {
+    pub fn new(x: f64, y: f64, radius: f64) -> Self {
         Self {
             center: Point(x, y),
-            radius: radius
+            radius: radius,
         }
     }
     pub fn diameter(&self) -> f64 {
@@ -21,7 +21,8 @@ impl Circle {
 
     pub fn intersect(&self, other: Self) -> bool {
         let center_dist = self.center.distance(other.center);
-        center_dist <= self.radius + other.radius && center_dist >= (self.radius - other.radius).abs()
+        center_dist <= self.radius + other.radius
+            && center_dist >= (self.radius - other.radius).abs()
     }
 }
 
