@@ -1,4 +1,4 @@
-pub fn initials(names: Vec<&str>) -> Vec<String> {    
+pub fn initials(names: Vec<&str>) -> Vec<String> {
     fn name2initial(name: &str) -> String {
         let mut initial = String::new();
 
