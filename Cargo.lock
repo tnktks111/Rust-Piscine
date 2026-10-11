@@ -7,6 +7,10 @@ name = "arrange_it"
 version = "0.1.0"
 
 [[package]]
+name = "arrays"
+version = "0.1.0"
+
+[[package]]
 name = "borrow"
 version = "0.1.0"
 
@@ -146,6 +150,10 @@ version = "0.1.0"
 
 [[package]]
 name = "string_literals"
+version = "0.1.0"
+
+[[package]]
+name = "strings"
 version = "0.1.0"
 
 [[package]]
