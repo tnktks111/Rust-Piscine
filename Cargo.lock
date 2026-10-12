@@ -161,6 +161,10 @@ name = "string_literals"
 version = "0.1.0"
 
 [[package]]
+name = "string_permutation"
+version = "0.1.0"
+
+[[package]]
 name = "strings"
 version = "0.1.0"
 
