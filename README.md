@@ -117,12 +117,12 @@ cargo fmt --all
 | [strings](https://github.com/01-edu/public/tree/master/subjects/strings) | ✅️ |
 | [edit_distance](https://github.com/01-edu/public/tree/master/subjects/edit_distance) | ⬜ |
 | [to_url](https://github.com/01-edu/public/tree/master/subjects/to_url) | ✅️ |
-| [capitalizing](https://github.com/01-edu/public/tree/master/subjects/capitalizing) | ⬜ |
-| [hashing](https://github.com/01-edu/public/tree/master/subjects/hashing) | ⬜ |
-| [string_permutation](https://github.com/01-edu/public/tree/master/subjects/string_permutation) | ⬜ |
-| [bigger](https://github.com/01-edu/public/tree/master/subjects/bigger) | ⬜ |
-| [simple_hash](https://github.com/01-edu/public/tree/master/subjects/simple_hash) | ⬜ |
-| [collect](https://github.com/01-edu/public/tree/master/subjects/collect) | ⬜ |
+| [capitalizing](https://github.com/01-edu/public/tree/master/subjects/capitalizing) | ✅️ |
+| [hashing](https://github.com/01-edu/public/tree/master/subjects/hashing) | ✅️ |
+| [string_permutation](https://github.com/01-edu/public/tree/master/subjects/string_permutation) | ✅️ |
+| [bigger](https://github.com/01-edu/public/tree/master/subjects/bigger) | ✅️ |
+| [simple_hash](https://github.com/01-edu/public/tree/master/subjects/simple_hash) | ✅️ |
+| [collect](https://github.com/01-edu/public/tree/master/subjects/collect) | ✅️ |
 
 Additional quests will be added as I progress.
 
