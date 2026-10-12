@@ -11,6 +11,10 @@ name = "arrays"
 version = "0.1.0"
 
 [[package]]
+name = "bigger"
+version = "0.1.0"
+
+[[package]]
 name = "borrow"
 version = "0.1.0"
 
