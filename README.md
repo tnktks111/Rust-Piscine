@@ -128,15 +128,15 @@ cargo fmt --all
 
 | Exercise | Status |
 |----------|--------|
-| [unwrap_or_expect](https://github.com/01-edu/public/tree/master/subjects/unwrap_or_expect) | ⬜ |
-| [panic](https://github.com/01-edu/public/tree/master/subjects/panic) | ⬜ |
-| [handling](https://github.com/01-edu/public/tree/master/subjects/handling) | ⬜ |
-| [profanity_filter](https://github.com/01-edu/public/tree/master/subjects/profanity_filter) | ⬜ |
-| [question_mark](https://github.com/01-edu/public/tree/master/subjects/question_mark) | ⬜ |
-| [banner](https://github.com/01-edu/public/tree/master/subjects/banner) | ⬜ |
-| [cipher](https://github.com/01-edu/public/tree/master/subjects/cipher) | ⬜ |
-| [error_types](https://github.com/01-edu/public/tree/master/subjects/error_types) | ⬜ |
-| [boxing_todo](https://github.com/01-edu/public/tree/master/subjects/boxing_todo) | ⬜ |
+| [unwrap_or_expect](https://github.com/01-edu/public/tree/master/subjects/unwrap_or_expect) | ✅️ |
+| [panic](https://github.com/01-edu/public/tree/master/subjects/panic) | ✅️ |
+| [handling](https://github.com/01-edu/public/tree/master/subjects/handling) | ✅️ |
+| [profanity_filter](https://github.com/01-edu/public/tree/master/subjects/profanity_filter) | ✅️ |
+| [question_mark](https://github.com/01-edu/public/tree/master/subjects/question_mark) | ✅️ |
+| [banner](https://github.com/01-edu/public/tree/master/subjects/banner) | ✅️ |
+| [cipher](https://github.com/01-edu/public/tree/master/subjects/cipher) | ✅️ |
+| [error_types](https://github.com/01-edu/public/tree/master/subjects/error_types) | ✅️ |
+| [boxing_todo](https://github.com/01-edu/public/tree/master/subjects/boxing_todo) | ✅️ |
 
 Additional quests will be added as I progress.
 
