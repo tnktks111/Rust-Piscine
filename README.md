@@ -142,13 +142,13 @@ cargo fmt --all
 
 | Exercise | Status |
 |----------|--------|
-| [middle_day](https://github.com/01-edu/public/tree/master/subjects/middle_day) | ⬜ |
-| [does_it_fit](https://github.com/01-edu/public/tree/master/subjects/does_it_fit) | ⬜ |
-| [macro_calculator](https://github.com/01-edu/public/tree/master/subjects/macro_calculator) | ⬜ |
-| [shopping_mall](https://github.com/01-edu/public/tree/master/subjects/shopping_mall) | ⬜ |
-| [expected_variable](https://github.com/01-edu/public/tree/master/subjects/expected_variable) | ⬜ |
-| [mobs](https://github.com/01-edu/public/tree/master/subjects/mobs) | ⬜ |
-| [invert_sentence](https://github.com/01-edu/public/tree/master/subjects/invert_sentence) | ⬜ |
+| [middle_day](https://github.com/01-edu/public/tree/master/subjects/middle_day) | ✅️ |
+| [does_it_fit](https://github.com/01-edu/public/tree/master/subjects/does_it_fit) | ✅️ |
+| [macro_calculator](https://github.com/01-edu/public/tree/master/subjects/macro_calculator) | ✅️ |
+| [shopping_mall](https://github.com/01-edu/public/tree/master/subjects/shopping_mall) | ✅️ |
+| [expected_variable](https://github.com/01-edu/public/tree/master/subjects/expected_variable) | ✅️ |
+| [mobs](https://github.com/01-edu/public/tree/master/subjects/mobs) | ✅️ |
+| [invert_sentence](https://github.com/01-edu/public/tree/master/subjects/invert_sentence) | ✅️ |
 
 Additional quests will be added as I progress.
 
