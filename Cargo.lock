@@ -122,6 +122,15 @@ name = "collect"
 version = "0.1.0"
 
 [[package]]
+name = "convert_case"
+version = "0.12.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1af709f1f33454bf52eadfc8c78b3b9ef9cb26fb54d16dc9cd9a7299f899fd1b"
+dependencies = [
+ "unicode-segmentation",
+]
+
+[[package]]
 name = "copy"
 version = "0.1.0"
 
@@ -153,10 +162,24 @@ name = "doubtful"
 version = "0.1.0"
 
 [[package]]
+name = "edit-distance"
+version = "2.2.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "324d428080b707bac399325341bd61af5ded1b30f33b7c949792ca464733c2d5"
+
+[[package]]
 name = "error_types"
 version = "0.1.0"
 dependencies = [
  "chrono",
+]
+
+[[package]]
+name = "expected_variable"
+version = "0.1.0"
+dependencies = [
+ "convert_case",
+ "edit-distance",
 ]
 
 [[package]]
@@ -291,6 +314,10 @@ version = "0.1.0"
 dependencies = [
  "chrono",
 ]
+
+[[package]]
+name = "mobs"
+version = "0.1.0"
 
 [[package]]
 name = "name_initials"
@@ -467,6 +494,12 @@ name = "unicode-ident"
 version = "1.0.27"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a2c754d6c33795a1c324727428e5a7dedb5b06195f9890bdbcba760d3e246563"
+
+[[package]]
+name = "unicode-segmentation"
+version = "1.13.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "c6f5d3c3b1bf09027a88a6bc961fc00497d651009560b5463668dc81b0fa87a8"
 
 [[package]]
 name = "unwrap_or_expect"
