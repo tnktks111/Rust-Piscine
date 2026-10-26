@@ -150,6 +150,23 @@ cargo fmt --all
 | [mobs](https://github.com/01-edu/public/tree/master/subjects/mobs) | ✅️ |
 | [invert_sentence](https://github.com/01-edu/public/tree/master/subjects/invert_sentence) | ✅️ |
 
+### Quest 06 — Algorithms & String Manipulation
+
+| Exercise | Status |
+|----------|--------|
+| [stars](https://github.com/01-edu/public/tree/master/subjects/stars) | ⬜ |
+| [diamond_creation](https://github.com/01-edu/public/tree/master/subjects/diamond_creation) | ⬜ |
+| [scores](https://github.com/01-edu/public/tree/master/subjects/scores) | ⬜ |
+| [pangram](https://github.com/01-edu/public/tree/master/subjects/pangram) | ⬜ |
+| [rot](https://github.com/01-edu/public/tree/master/subjects/rot) | ⬜ |
+| [pig_latin](https://github.com/01-edu/public/tree/master/subjects/pig_latin) | ⬜ |
+| [talking](https://github.com/01-edu/public/tree/master/subjects/talking) | ⬜ |
+| [spelling](https://github.com/01-edu/public/tree/master/subjects/spelling) | ⬜ |
+| [luhn_algorithm](https://github.com/01-edu/public/tree/master/subjects/luhn_algorithm) | ⬜ |
+| [searching](https://github.com/01-edu/public/tree/master/subjects/searching) | ⬜ |
+| [scytale_cipher](https://github.com/01-edu/public/tree/master/subjects/scytale_cipher) | ⬜ |
+| [rgb_match](https://github.com/01-edu/public/tree/master/subjects/rgb_match) | ⬜ |
+
 Additional quests will be added as I progress.
 
 ## Development
