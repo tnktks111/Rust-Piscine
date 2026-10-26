@@ -150,23 +150,26 @@ cargo fmt --all
 | [mobs](https://github.com/01-edu/public/tree/master/subjects/mobs) | ✅️ |
 | [invert_sentence](https://github.com/01-edu/public/tree/master/subjects/invert_sentence) | ✅️ |
 
-### Quest 06 — Algorithms & String Manipulation
+### Quest 06 — Traits, Lifetimes & Generics
 
 | Exercise | Status |
 |----------|--------|
-| [stars](https://github.com/01-edu/public/tree/master/subjects/stars) | ⬜ |
-| [diamond_creation](https://github.com/01-edu/public/tree/master/subjects/diamond_creation) | ⬜ |
-| [scores](https://github.com/01-edu/public/tree/master/subjects/scores) | ⬜ |
-| [pangram](https://github.com/01-edu/public/tree/master/subjects/pangram) | ⬜ |
-| [rot](https://github.com/01-edu/public/tree/master/subjects/rot) | ⬜ |
-| [pig_latin](https://github.com/01-edu/public/tree/master/subjects/pig_latin) | ⬜ |
-| [talking](https://github.com/01-edu/public/tree/master/subjects/talking) | ⬜ |
-| [spelling](https://github.com/01-edu/public/tree/master/subjects/spelling) | ⬜ |
-| [luhn_algorithm](https://github.com/01-edu/public/tree/master/subjects/luhn_algorithm) | ⬜ |
-| [searching](https://github.com/01-edu/public/tree/master/subjects/searching) | ⬜ |
-| [scytale_cipher](https://github.com/01-edu/public/tree/master/subjects/scytale_cipher) | ⬜ |
-| [rgb_match](https://github.com/01-edu/public/tree/master/subjects/rgb_match) | ⬜ |
-
+| [traits](https://github.com/01-edu/public/tree/master/subjects/traits) | ⬜ |
+| [lifetimes](https://github.com/01-edu/public/tree/master/subjects/lifetimes) | ⬜ |
+| [lalgebra_scalar](https://github.com/01-edu/public/tree/master/subjects/lalgebra_scalar) | ⬜ |
+| [matrix](https://github.com/01-edu/public/tree/master/subjects/matrix) | ⬜ |
+| [matrix_ops](https://github.com/01-edu/public/tree/master/subjects/matrix_ops) | ⬜ |
+| [matrix_mult](https://github.com/01-edu/public/tree/master/subjects/matrix_mult) | ⬜ |
+| [lalgebra_vector](https://github.com/01-edu/public/tree/master/subjects/lalgebra_vector) | ⬜ |
+| [blood_types](https://github.com/01-edu/public/tree/master/subjects/blood_types) | ⬜ |
+| [border_cross](https://github.com/01-edu/public/tree/master/subjects/border_cross) | ⬜ |
+| [roman_numbers](https://github.com/01-edu/public/tree/master/subjects/roman_numbers) | ⬜ |
+| [generics](https://github.com/01-edu/public/tree/master/subjects/generics) | ⬜ |
+| [roman_numbers_iter](https://github.com/01-edu/public/tree/master/subjects/roman_numbers_iter) | ⬜ |
+| [vector_operations](https://github.com/01-edu/public/tree/master/subjects/vector_operations) | ⬜ |
+| [events](https://github.com/01-edu/public/tree/master/subjects/events) | ⬜ |
+| [delete_prefix](https://github.com/01-edu/public/tree/master/subjects/delete_prefix) | ⬜ |
+| [commits_stats](https://github.com/01-edu/public/tree/master/subjects/commits_stats) | ⬜ |
 Additional quests will be added as I progress.
 
 ## Development
